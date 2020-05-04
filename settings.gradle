@@ -1,0 +1,2 @@
+rootProject.name='ConnectGame'
+include ':app'
